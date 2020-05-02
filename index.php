@@ -1,6 +1,6 @@
 <?php
 
-$server_key = "SB-Mid-server-JqaBueTIrquG_q_arqBowkiQ"
+$server_key = "SB-Mid-server-tmx7fj2hHK8BhiGmA6nImePn"
 
 $is_production = false;
 $api_url = $is_production ? 
